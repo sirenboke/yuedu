@@ -1,9 +1,9 @@
 # [「阅读」APP 精品书源](https://github.com/XIU2/Yuedu)
 
 [![GitHub license](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
-[![GitHub Star](https://img.shields.io/github/stars/XIU2/yuedu.svg?style=flat-square&label=Star&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
-[![GitHub Fork](https://img.shields.io/github/forks/XIU2/yuedu.svg?style=flat-square&label=Fork&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
-[![YUEDU.XIU2.XYZ](https://img.shields.io/static/v1?label=%20&message=YUEDU.XIU2.XYZ&style=flat-square&labelColor=1172EB&color=0f6adb&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA1ElEQVR42mMULHr9n4ECwEhVA971ijDUb/7CMPnAD4Y4M3aGCeG8ODUKFb/BNCDYgI1hdiwfXBIbQFcDNwBkO0wQXRGyHDofqwHOaiwMq9MFGDwnvWfw0WNnyHbgYnCf+J7h9KO/xBkAYuPzN1EGoIcDLnnaGUCRF5D5INqk/R3DvTf/iI8FmAtgBtRt+sJw8ckfho1ZAnAxnAYgawYBH21WhkVJ/HAxgglJlJuR4cnHfwzsLIwo/o8yYWOYEsnH8PHbP4bStV8Y1lz4hZmUyQEUGwAAWJ624X5VLdcAAAAASUVORK5CYII=)](https://yuedu.xiu2.xyz)
+[![GitHub Star](https://img.shields.io/github/stars/sirenboke/yuedu.svg?style=flat-square&label=Star&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
+[![GitHub Fork](https://img.shields.io/github/forks/sirenboke/yuedu.svg?style=flat-square&label=Fork&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
+[![YUEDU.XIU2.XYZ](https://img.shields.io/static/v1?label=%20&message=YUEDU.XIAOSHIWZ.COM&style=flat-square&labelColor=1172EB&color=0f6adb&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA1ElEQVR42mMULHr9n4ECwEhVA971ijDUb/7CMPnAD4Y4M3aGCeG8ODUKFb/BNCDYgI1hdiwfXBIbQFcDNwBkO0wQXRGyHDofqwHOaiwMq9MFGDwnvWfw0WNnyHbgYnCf+J7h9KO/xBkAYuPzN1EGoIcDLnnaGUCRF5D5INqk/R3DvTf/iI8FmAtgBtRt+sJw8ckfho1ZAnAxnAYgawYBH21WhkVJ/HAxgglJlJuR4cnHfwzsLIwo/o8yYWOYEsnH8PHbP4bStV8Y1lz4hZmUyQEUGwAAWJ624X5VLdcAAAAASUVORK5CYII=)](https://yuedu.xiu2.xyz)
 
 📚 自用的一些「阅读」小说书源，一部分是网上搜集/他人推荐，一部分是自己写的书源规则。  
 如果你有什么**好用的小说网站也可以 [Issues](https://github.com/sirenboke/Yuedu/issues/new/choose) 告诉我**做成书源，另外觉得**好用请在右上角点个⭐Star 鼓励一下下~**   
