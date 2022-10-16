@@ -1,12 +1,12 @@
 # [「阅读」APP 精品书源](https://github.com/XIU2/Yuedu)
 
-[![GitHub license](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square&color=0f6adb&logo=github)](https://github.com/XIU2/yuedu/)
-[![GitHub Star](https://img.shields.io/github/stars/XIU2/yuedu.svg?style=flat-square&label=Star&color=0f6adb&logo=github)](https://github.com/XIU2/yuedu/)
-[![GitHub Fork](https://img.shields.io/github/forks/XIU2/yuedu.svg?style=flat-square&label=Fork&color=0f6adb&logo=github)](https://github.com/XIU2/yuedu/)
+[![GitHub license](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
+[![GitHub Star](https://img.shields.io/github/stars/XIU2/yuedu.svg?style=flat-square&label=Star&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
+[![GitHub Fork](https://img.shields.io/github/forks/XIU2/yuedu.svg?style=flat-square&label=Fork&color=0f6adb&logo=github)](https://github.com/sirenboke/yuedu/)
 [![YUEDU.XIU2.XYZ](https://img.shields.io/static/v1?label=%20&message=YUEDU.XIU2.XYZ&style=flat-square&labelColor=1172EB&color=0f6adb&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA1ElEQVR42mMULHr9n4ECwEhVA971ijDUb/7CMPnAD4Y4M3aGCeG8ODUKFb/BNCDYgI1hdiwfXBIbQFcDNwBkO0wQXRGyHDofqwHOaiwMq9MFGDwnvWfw0WNnyHbgYnCf+J7h9KO/xBkAYuPzN1EGoIcDLnnaGUCRF5D5INqk/R3DvTf/iI8FmAtgBtRt+sJw8ckfho1ZAnAxnAYgawYBH21WhkVJ/HAxgglJlJuR4cnHfwzsLIwo/o8yYWOYEsnH8PHbP4bStV8Y1lz4hZmUyQEUGwAAWJ624X5VLdcAAAAASUVORK5CYII=)](https://yuedu.xiu2.xyz)
 
 📚 自用的一些「阅读」小说书源，一部分是网上搜集/他人推荐，一部分是自己写的书源规则。  
-如果你有什么**好用的小说网站也可以 [Issues](https://github.com/XIU2/Yuedu/issues/new/choose) 告诉我**做成书源，另外觉得**好用请在右上角点个⭐Star 鼓励一下下~**   
+如果你有什么**好用的小说网站也可以 [Issues](https://github.com/sirenboke/Yuedu/issues/new/choose) 告诉我**做成书源，另外觉得**好用请在右上角点个⭐Star 鼓励一下下~**   
 
 ****
 
@@ -26,40 +26,28 @@
 
 ## 书源地址：
 大家可以定期导入一次书源，导入时 APP 会自动去重复的~
-- **书源分享地址：** _https://yuedu.xiu2.xyz_  
+- **书源分享地址：** _https://yuedu.xiaoshiwz.com_  
 - **本地导入地址：** 去上面的书源分享地址里点击 **\[下载文件\]**  
-- **网络导入地址：** 以下 CDN 分流地址，任选一个速度快的  
-_https://raw.iqiq.io/XIU2/Yuedu/master/shuyuan ( 中国香港 CDN_  
-_https://raw.fastgit.org/XIU2/Yuedu/master/shuyuan ( 日本 CDN_  
-_https://bitbucket.org/xiu2/yuedu/raw/master/shuyuan ( 新加坡 CDN，网页打开乱码正常，不影响 APP 导入_  
-_https://gitea.com/XIU2/Yuedu/raw/branch/master/shuyuan ( 中国香港 CDN_  
-
 ****
 
 ## 导入步骤：
 ### 二维码导入(推荐)：
 打开「阅读」APP点击右下角的 **\[我的\] 按钮 - \[书源管理\]**(最下方第一张图)，这时候再点击右上角的 **\[三圆点\] 按钮 - \[二维码导入\]**(最下方第二张图) - 然后手机扫描下方二维码即可即可。  
 
-![](https://cdn.staticaly.com/gh/XIU2/Yuedu/master/dist/img/img-03.png)
+![](https://cdn.staticaly.com/gh/sirenboke/Yuedu/master/dist/img/img-03.png)
 
 ****
 
 ### 网络导入(推荐)：
 打开「阅读」APP点击右下角的 **\[我的\] 按钮 - \[书源管理\]**(最下方第一张图)，这时候再点击右上角的 **\[三圆点\] 按钮 - \[网络导入\]**(最下方第二张图) - 输入下面的网络导入地址并点击 **\[确定\]** 按钮即可（最下方第三张图）。  
-- **网络导入地址：** 以下 CDN 分流地址，任选一个速度快的  
-_https://raw.iqiq.io/XIU2/Yuedu/master/shuyuan ( 中国香港 CDN_  
-_https://raw.fastgit.org/XIU2/Yuedu/master/shuyuan ( 日本 CDN_  
-_https://bitbucket.org/xiu2/yuedu/raw/master/shuyuan ( 新加坡 CDN，网页打开乱码正常，不影响 APP 导入_  
-_https://gitea.com/XIU2/Yuedu/raw/branch/master/shuyuan ( 中国香港 CDN_  
-
 ****
 
 ### 本地导入：
-打开 [书源分享地址](https://yuedu.xiu2.xyz) 后点击 **\[下载文件\]** 即可下载 **shuyuan.json** 文件，存放到手机中任何你能找到的位置。  
+打开 [书源分享地址](https://yuedu.xiaoshiwz.com) 后点击 **\[下载文件\]** 即可下载 **shuyuan.json** 文件，存放到手机中任何你能找到的位置。  
 
 打开「阅读」APP点击右下角的 **\[我的\] 按钮 - \[书源管理\]**(最下方第一张图)， 这时候再点击右上角的 **\[三圆点\] 按钮 - \[本地导入\]**(最下方第二张图) - 选择 **shuyuan.json** 文件导入即可（最下方第四张图）。  
 
-![](https://cdn.staticaly.com/gh/XIU2/Yuedu/master/dist/img/img-04.png)
+![](https://cdn.staticaly.com/gh/sirenboke/Yuedu/master/dist/img/img-04.png)
 
 ****
 
