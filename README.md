@@ -76,7 +76,7 @@
 
 ## 赞赏支持
 
-![微信赞赏](https://cdn.statically.io/gh/sirenboke/yuedy/main/img/zs-01.png)![支付宝赞赏]([https://cdn.statically.io/gh/sirenboke/yuedy/main/img/zs-02.png])
+![微信赞赏](https://cdn.statically.io/gh/sirenboke/yuedy/main/img/zs-01.png)![支付宝赞赏](https://cdn.statically.io/gh/sirenboke/yuedy/main/img/zs-02.png)
 
 ****
 
