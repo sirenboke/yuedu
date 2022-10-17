@@ -34,7 +34,7 @@
 ### 二维码导入(推荐)：
 打开「阅读」APP点击右下角的 **\[我的\] 按钮 - \[书源管理\]**(最下方第一张图)，这时候再点击右上角的 **\[三圆点\] 按钮 - \[二维码导入\]**(最下方第二张图) - 然后手机扫描下方二维码即可即可。  
 
-![](https://cdn.staticaly.com/gh/sirenboke/Yuedu/master/dist/img/img-03.png)
+![](https://cdn.statically.io/gh/sirenboke/yuedu/main/dist/img/img-07.png)
 
 ****
 
@@ -47,7 +47,7 @@
 
 打开「阅读」APP点击右下角的 **\[我的\] 按钮 - \[书源管理\]**(最下方第一张图)， 这时候再点击右上角的 **\[三圆点\] 按钮 - \[本地导入\]**(最下方第二张图) - 选择 **shuyuan.json** 文件导入即可（最下方第四张图）。  
 
-![](https://cdn.staticaly.com/gh/sirenboke/Yuedu/master/dist/img/img-04.png)
+![](https://cdn.statically.io/gh/sirenboke/yuedu/main/dist/img/img-07.png)
 
 ****
 
