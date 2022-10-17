@@ -26,7 +26,7 @@
 
 ## 书源地址：
 大家可以定期导入一次书源，导入时 APP 会自动去重复的~
-- **书源分享地址：** _https://raw.githubusercontent.com/sirenboke/yuedu/main/shuyuan_  
+- **书源分享地址：** _https://cdn.statically.io/gh/sirenboke/yuedu/main/yuedu.json_  
 - **本地导入地址：** 去上面的书源分享地址里点击 **\[下载文件\]**  
 ****
 
